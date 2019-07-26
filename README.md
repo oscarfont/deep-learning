@@ -1,6 +1,6 @@
 # Deep Learning
 
-Laboratories carried out with @vipermu and @diegovincent of the Deep Learning course in our last year of our Bachelor in Universitat Pompeu Fabra.  
+Laboratories of the Deep Learning course carried out with @vipermu and @diegovincent in our last year of our Bachelor at Universitat Pompeu Fabra.  
 Course name: Deep Learning.  
 Language: Python.  
 IDE: Google Colab.  
